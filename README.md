@@ -1,2 +1,4 @@
 # Welcome to My Challenge!
-1. Just remember to say "Hey Noor!"
+I am so glad to see you here :)
+
+Have a good day/night! 
