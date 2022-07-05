@@ -1,3 +1,3 @@
-#Welcome!
+Welcome!
 
 [About Us!](about.md)
